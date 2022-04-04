@@ -1,5 +1,5 @@
 # Mostyko Ivan
-
+![Аватарка](./img.jpg)
 
 
 _Student_
